@@ -5,7 +5,7 @@ const Projects = () => {
 
     const projects = [
         {
-            link: "https://github.com/Mohanish19/CryptoFy",
+            link: "https://cryptofy-7d5d8.web.app/",
             // background: "protege.jpg",
             background: "bg1",
             category: "JavaScript Project",
@@ -20,7 +20,7 @@ const Projects = () => {
             ]
         },
         {
-            link: "https://chat-app-4a37b.web.app/",
+            link: "https://github.com/Mohanish19/Chat-Line",
             // background: "medistat.jpg",
             background: "bg2",
             category: "JavaScript Project",

@@ -34,9 +34,9 @@ const Intro = () => {
                     integrate them to create highly functional and user-friendly applications.
                     <br />
                     <br />
-                    <strong className="lang">Languages :</strong> JavaScript Java 
+                    <strong className="lang">Languages :</strong> JavaScript C++ SQL
                     <br />
-                    <strong>Technologies :</strong> ReactJS  NodeJS  ExpressJS  Redux  MongoDB
+                    <strong>Technologies :</strong> ReactJS  NodeJS  ExpressJS  Redux  PostgreSQL
                     <br />
                     <strong className="plat">Platforms :</strong> Azure  AWS  Firebase  Netlify
                     </p>
