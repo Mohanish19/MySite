@@ -60,7 +60,7 @@ const About = () => {
                 </div>
 
                 <div data-aos="zoom-in-right" data-aos-duration="1300" className="boxed details card">
-                    <p className="bio">21 years old</p>
+                    <p className="bio">22 years old</p>
                 </div>
 
                 <div data-aos="zoom-in-right" data-aos-duration="1500" className="boxed details card">

@@ -36,7 +36,7 @@ const Intro = () => {
                     <br />
                     <strong className="lang">Languages :</strong> JavaScript C++ SQL
                     <br />
-                    <strong>Technologies :</strong> ReactJS  NodeJS  ExpressJS  Redux  PostgreSQL
+                    <strong>Technologies :</strong> ReactJS  NodeJS  ExpressJS  Redux  PostgreSQL Docker
                     <br />
                     <strong className="plat">Platforms :</strong> Azure  AWS  Firebase  Netlify
                     </p>

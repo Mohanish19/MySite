@@ -9,7 +9,7 @@ const Resume = () => {
       dates: "Batch of 2023",
       title: "B.E, Electronics and Telecommunication",
       subtitle: "Government College of Engineering, Nagpur",
-      description: "CGPA: 8.11"
+      description: "CGPA: 8.02"
     },
     // {
     //   dates: "Batch of 2019",
@@ -73,24 +73,24 @@ const Resume = () => {
         dates: "2021",
         title: "Content Creator",
         subtitle: "Feel and Vibe Youtube Channel",
-        description: "Created and managed youtube channel with 1k+ subscribers and 4lakhs+ views"
+        description: "Created and managed youtube channel with 2k+ subscribers and 7akhs+ views"
       },
     ]);
 
 
     const [community, setCommunity] = useState([
       {
-        dates: "July 2023 - Present",
+        dates: "July - September 2023",
         title: "Software Engineering Intern",
         subtitle: "LightMetrics Technologies",
         description: "Working with backend team to develop fast and reliable RESTful API's using NodeJS and PostgreSQL"
       },
-      // {
-      //   dates: "March 2020 - March 2021",
-      //   title: "LeanIn IGDTUW",
-      //   subtitle:"Mentor",
-      //   description: "Small groups of women who come together for gaining technical expertise and peer support. Mentored the DSA circle, a batch of 150 female students, helping the women in STEM build their problem solving skills."
-      // },
+      {
+        dates: "September 2023 - Present",
+        title: "Software Development Engineer",
+        subtitle:"LightMetrics Technologies",
+        description: "Handling backend API's and cloud functionalities with the backend team"
+      },
       // {
       //   dates: "August 2019 - September 2020",
       //   title: "IEEE IGDTUW",
@@ -107,16 +107,17 @@ const Resume = () => {
 
     return (
       <div className="col-grid">
-        
-        <div className="col">
-          <h1>Education</h1>
-          <Card cardInfo={educaton}/>
-        </div>
+
 
         <div className="col">
           <h1>Experience</h1>
           <Card cardInfo={community}/>
         </div> 
+        
+        <div className="col">
+          <h1>Education</h1>
+          <Card cardInfo={educaton}/>
+        </div>
 
         <div className="col">
           <h1>Certifications</h1>
