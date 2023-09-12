@@ -4,7 +4,7 @@ import './resume.css';
 
 const Resume = () => {
 
-  const [educaton, setEducation] = useState([
+  const [educaton] = useState([
     {
       dates: "Batch of 2023",
       title: "B.E, Electronics and Telecommunication",
@@ -26,7 +26,7 @@ const Resume = () => {
   ]);
 
 
-  const [experience, setExperience] = useState([
+  const [experience] = useState([
     {
       dates: "2021",
       title: "Virtual Internship",
@@ -50,7 +50,7 @@ const Resume = () => {
   
     
   
-    const [achievements, setAchievements] = useState([
+    const [achievements] = useState([
       {
         dates: "2021",
         title: "Winner",
@@ -78,7 +78,7 @@ const Resume = () => {
     ]);
 
 
-    const [community, setCommunity] = useState([
+    const [community] = useState([
       {
         dates: "July - September 2023",
         title: "Software Engineering Intern",

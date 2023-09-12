@@ -1,5 +1,5 @@
 import { BiCoffeeTogo } from "react-icons/bi";
-import { HiCode } from "react-icons/hi";
+// import { HiCode } from "react-icons/hi";
 import { ImHeadphones, ImBooks } from "react-icons/im";
 import { TiCamera } from "react-icons/ti";
 import { IoIosBicycle } from "react-icons/io";
