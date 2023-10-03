@@ -80,17 +80,18 @@ const Resume = () => {
 
     const [community] = useState([
       {
+        dates: "September 2023 - Present",
+        title: "Software Development Engineer",
+        subtitle:"LightMetrics Technologies",
+        description: "Building and Designing backend API's in the backend team"
+      },
+      {
         dates: "July - September 2023",
         title: "Software Engineering Intern",
         subtitle: "LightMetrics Technologies",
         description: "Working with backend team to develop fast and reliable RESTful API's using NodeJS and PostgreSQL"
       },
-      {
-        dates: "September 2023 - Present",
-        title: "Software Development Engineer",
-        subtitle:"LightMetrics Technologies",
-        description: "Handling backend API's and cloud functionalities with the backend team"
-      },
+      
       // {
       //   dates: "August 2019 - September 2020",
       //   title: "IEEE IGDTUW",
