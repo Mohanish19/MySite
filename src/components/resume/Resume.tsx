@@ -28,6 +28,12 @@ const Resume = () => {
 
   const [experience] = useState([
     {
+      dates: "2022",
+      title: "Amazon Web Services (AWS) ",
+      subtitle: "NASSCOM",
+      description: "AWS Cloud Masterclass ‑ Cloud Practitioner Essentials"
+    },
+    {
       dates: "2021",
       title: "Virtual Internship",
       subtitle: "Microsoft",
@@ -38,13 +44,6 @@ const Resume = () => {
         title: "Java",
         subtitle: "Coding Ninjas",
         description: "Gained basic to advanced knowledge of Java. Awarded with certificate of Excellence."
-      },
-      
-      {
-        dates: "2022",
-        title: "Amazon Web Services (AWS) ",
-        subtitle: "NASSCOM",
-        description: "AWS Cloud Masterclass ‑ Cloud Practitioner Essentials"
       },
     ]);
   
@@ -64,16 +63,16 @@ const Resume = () => {
         description: "Code for Good Hackathon at Next Wave Technologies. Developed JavaScript App as a solution to a Healthcare issue. Bagged 4th prize out of 210+ teams"
       },
       {
-        dates: "2020",
-        title: "Tech Lead",
-        subtitle: "GCE Nagpur",
-        description: "Helped organised sessions and conferences on various computing domains and career guidance. Volunteered at the annual, national event DSC 2020 to publish content."
-      },
-      {
         dates: "2021",
         title: "Content Creator",
         subtitle: "Feel and Vibe Youtube Channel",
         description: "Created and managed youtube channel with 2k+ subscribers and 7akhs+ views"
+      },
+      {
+        dates: "2020",
+        title: "Tech Lead",
+        subtitle: "GCE Nagpur",
+        description: "Helped organised sessions and conferences on various computing domains and career guidance. Volunteered at the annual, national event DSC 2020 to publish content."
       },
     ]);
 
