@@ -88,7 +88,7 @@ const Resume = () => {
         dates: "July - September 2023",
         title: "Software Engineering Intern",
         subtitle: "LightMetrics Technologies",
-        description: "Working with backend team to develop fast and reliable RESTful API's using NodeJS and PostgreSQL"
+        description: "Designed and developed a Task Management API utilizing PostgreSQL, Node.js, and Docker. Implemented user authentication, API routes, and containerized deployment for streamlined task management."
       },
       
       // {
